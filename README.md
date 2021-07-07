@@ -1,4 +1,4 @@
-Using tutorial using youtube channel "Nsquared Coding"
+Based on tutorial by youtube channel "Nsquared Coding"
 
 # Getting Started with Create React App
 
