@@ -1,5 +1,7 @@
 Based on tutorial by youtube channel "Nsquared Coding"
 
+Built using HTML, CSS, Material-Icons, React and OpenWeatherMap.org/api
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
